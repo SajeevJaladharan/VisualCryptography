@@ -1,6 +1,5 @@
 #Copyright, Robert Donovan, LessonStudio, 2014
 #If you use this then tweet what you did with it @LessonStudio.
-
 #This file takes one argument which is a file that you would like to split into two encrypted images.
 #The original image can only be viewed by overlaying the two encrypted images.
 #If printed on clear plastic, It can be very finicky to align the two images if the pixel count is too high.
